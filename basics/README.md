@@ -5,17 +5,27 @@
 
 ### General
 - What does RTFM mean?
+    - **READ THE FUCKING MANUEL**
 - What is a Shebang
+    - A special line at the beginning of a script that tells the operating system which interpreter to use when executing the script. (#!)
+
+## What is the Shell
 - What is the Shell
-- What is the shell
+    - A program that takes commands from the keyboard and gives them to the operating system to perform.
 - What is the difference between a terminal and a shell
+    - a terminal is a program that opens a window and lets you interact w/ the shell.
 - What is the shell prompt
-- How to use the history (the basics)
-- Navigation
+    - The main way to interact w/ a command line only interface.
+
+## Navigation
+
 - What do the commands or built-ins cd, pwd, ls do
-- How to navigate the filesystem
+    - cd: change directory
+    - pwd: print working directory
+    - ls: lists directory contents of files and directories
 - What are the . and .. directories
-- What is the working directory, how to print it and how to change it
+    - .: is the current directory
+    - ..: is the parent directory
 - What is the root directory
 - What is the home directory, and how to go there
 - What is the difference between the root directory and the home directory of the user root
